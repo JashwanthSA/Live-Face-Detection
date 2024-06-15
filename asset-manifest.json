@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Live-Face-Detection/static/css/main.11a32c42.css",
+    "main.js": "/Live-Face-Detection/static/js/main.adc76821.js",
+    "static/js/453.01794a26.chunk.js": "/Live-Face-Detection/static/js/453.01794a26.chunk.js",
+    "index.html": "/Live-Face-Detection/index.html",
+    "main.11a32c42.css.map": "/Live-Face-Detection/static/css/main.11a32c42.css.map",
+    "main.adc76821.js.map": "/Live-Face-Detection/static/js/main.adc76821.js.map",
+    "453.01794a26.chunk.js.map": "/Live-Face-Detection/static/js/453.01794a26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11a32c42.css",
+    "static/js/main.adc76821.js"
+  ]
+}
