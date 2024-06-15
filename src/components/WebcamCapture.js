@@ -59,10 +59,11 @@ const WebcamCapture = () => {
         <FaceOverlay faces={faces} />
       </div>
       <p style={{fontSize: "x-large",
-  fontWeight: "bold"}}>No. of faces: {num}</p>
+  fontWeight: "bold"}}>{num} faces detected</p>
       <button onClick={capture}>Detect faces</button>
       
       {error && <p style={{ color: 'red' }}>{error}</p>}
+      {num==0 && <p style={{color:'red', fontSize: 'large'}}>No faces detected</p>}
     </div>
   );
 };
